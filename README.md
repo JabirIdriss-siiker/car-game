@@ -15,5 +15,3 @@ to move on the circuit the controls are simple:
 -down arrow to slow down and go backwards
 -left and right arrow to turn
 
-
-Translated with www.DeepL.com/Translator (free version)
